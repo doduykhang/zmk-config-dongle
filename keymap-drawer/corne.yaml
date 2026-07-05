@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - {t: ▽, type: trans}
+  - $$mdi:backspace-outline$$
   - CAPSLOCK
   - {t: A, h: LEFT ALT}
   - {t: S, h: LEFT SHIFT}
@@ -20,11 +20,11 @@ layers:
   - {t: F, h: LEFT GUI}
   - G
   - H
-  - {t: J, h: RIGHT GUI}
-  - {t: K, h: RIGHT CONTROL}
-  - {t: L, h: RIGHT SHIFT}
-  - {t: ;, h: RIGHT ALT}
-  - {t: ▽, type: trans}
+  - J
+  - K
+  - L
+  - ;
+  - ''''
   - ESCAPE
   - Z
   - X
@@ -36,13 +36,13 @@ layers:
   - ','
   - .
   - /
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Esc
+  - $$mdi:apple-keyboard-command$$
   - {t: ↹, h: LOW}
   - ␣
   - BACKSPACE
   - {t: ENTER, h: RAI}
-  - {t: ▽, type: trans}
+  - $$mdi:apple-keyboard-option$$
   LOW:
   - ↹
   - '1'
@@ -56,19 +56,6 @@ layers:
   - '9'
   - '0'
   - $$mdi:backspace-outline$$
-  - BT CLR
-  - BT 1
-  - BT 2
-  - BT 3
-  - BT 4
-  - BT 5
-  - ←
-  - ↓
-  - ↑
-  - →
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - $$mdi:apple-keyboard-shift$$
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -80,12 +67,25 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - $$mdi:apple-keyboard-command$$
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - ␣
-  - ⏎
   - {t: ▽, type: trans}
-  - $$mdi:apple-keyboard-option$$
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   RAI:
   - ↹
   - '!'
