@@ -14,10 +14,10 @@ layers:
   - P
   - $$mdi:backspace-outline$$
   - CAPSLOCK
-  - {t: A, h: Alt+A}
-  - {t: S, h: Sft+S}
-  - {t: D, h: Ctl+D}
-  - {t: F, h: Gui+F}
+  - {t: A, h: LEFT ALT}
+  - {t: S, h: LEFT SHIFT}
+  - {t: D, h: LEFT CONTROL}
+  - {t: F, h: LEFT GUI}
   - G
   - H
   - J
