@@ -2,7 +2,7 @@ layout: {zmk_keyboard: corne}
 layers:
   BAS:
   - '`'
-  - S
+  - Q
   - W
   - E
   - R
