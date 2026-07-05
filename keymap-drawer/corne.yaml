@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - $$mdi:backspace-outline$$
+  - {t: ▽, type: trans}
   - CAPSLOCK
   - {t: A, h: LEFT ALT}
   - {t: S, h: LEFT SHIFT}
@@ -24,7 +24,7 @@ layers:
   - K
   - L
   - ;
-  - ''''
+  - {t: ▽, type: trans}
   - ESCAPE
   - Z
   - X
@@ -36,13 +36,13 @@ layers:
   - ','
   - .
   - /
-  - Esc
-  - $$mdi:apple-keyboard-command$$
-  - LOW
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ↹, h: LOW}
   - ␣
-  - ⏎
-  - RAI
-  - $$mdi:apple-keyboard-option$$
+  - BACKSPACE
+  - {t: ENTER, h: RAI}
+  - {t: ▽, type: trans}
   LOW:
   - ↹
   - '1'
