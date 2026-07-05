@@ -20,10 +20,10 @@ layers:
   - {t: F, h: LEFT GUI}
   - G
   - H
-  - J
-  - K
-  - L
-  - ;
+  - {t: J, h: RIGHT GUI}
+  - {t: K, h: RIGHT CONTROL}
+  - {t: L, h: RIGHT SHIFT}
+  - {t: ;, h: RIGHT ALT}
   - ''''
   - ESCAPE
   - Z
@@ -106,8 +106,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - LEFT ARROW
+  - DOWN ARROW
   - UP ARROW
-  - ↓
   - →
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
