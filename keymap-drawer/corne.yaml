@@ -15,8 +15,8 @@ layers:
   - $$mdi:backspace-outline$$
   - CAPSLOCK
   - {t: A, h: Alt+A}
-  - S
-  - D
+  - {t: S, h: Sft+S}
+  - {t: D, h: Ctl+D}
   - {t: F, h: Gui+F}
   - G
   - H
